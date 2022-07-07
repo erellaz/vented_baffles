@@ -1,2 +1,2 @@
-# vented_baffles
+# Vented baffles
 Vented refractor baffle design in OpenScadf or laser cutting out of aluminum

@@ -1,6 +1,7 @@
 # Vented baffles
 Vented refractor baffle design in OpenScad for laser cutting of a thin aluminum sheet.
 The design is parametric. The tabs are meant to be bent and maintain the baffle in place.
+The semi-circular vents promote air circulation along the tube's wall, ie away from and hopefully without disturbing the light pass.
 
 Use:
 

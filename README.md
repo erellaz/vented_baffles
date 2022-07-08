@@ -7,7 +7,7 @@ Use:
 1- Go here for baffle calculation:
 https://github.com/erellaz/Baffle_calculator
 
-2- Modify the Openscad file provided here for the size of your baffle opening and tube inside diameter.
+2- Modify the Openscad file provided in this repository for the size of your baffle opening and tube inside diameter.
 
 3- Export as dxf.
 
